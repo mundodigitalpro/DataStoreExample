@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataStoreExample</string>
+    <string name="introduce_tu_nombre">Introduce tu nombre</string>
+    <string name="eres_vip">Eres VIP?</string>
+</resources>
